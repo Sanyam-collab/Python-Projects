@@ -4,4 +4,4 @@
 <br>
 <i>Here I am gonna upload some of my basic python projects.</i>
 <br>
-<h1 color="red">By: Sanyam Sirohi</h1>
+<h1>By:- Sanyam Sirohi</h1>
